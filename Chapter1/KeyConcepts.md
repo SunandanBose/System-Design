@@ -10,6 +10,7 @@ Three concerns that are important in most software systems
 > **fault-resilient**
 
 > A fault can also be defined as one component of the system deviated from its specs.
+
 > A failure can be defined as when the system as a whole system stops providing the required service to the user.
 
 
