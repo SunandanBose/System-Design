@@ -9,9 +9,15 @@ Three concerns that are important in most software systems
 > The things that go wrong are called faults. If a system is anticipating in faults and is able to recover is called **fault-tolerant** or
 > **fault-resilient**
 
-> A fault can also be defined as one component of the system deviated from its specs.
-
+> A fault can also be defined as one component of the system deviated from its specs.<br />
 > A failure can be defined as when the system as a whole system stops providing the required service to the user.
+
+> We can get two kinds of error<br />
+> 1. Hardware error
+> 2. Software Error
+<br />
+> **Hardware Error**
+> Hardware error can be ike Hard disk Crash, faulty RAM, power grid blackout, network cable ware and tear.
 
 
 
